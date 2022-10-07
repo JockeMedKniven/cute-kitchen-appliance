@@ -1,0 +1,15 @@
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\bin\Debug\net6.0\Labb 2 - Kitchen Appliance.exe
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\bin\Debug\net6.0\Labb 2 - Kitchen Appliance.deps.json
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\bin\Debug\net6.0\Labb 2 - Kitchen Appliance.runtimeconfig.json
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\bin\Debug\net6.0\Labb 2 - Kitchen Appliance.dll
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\bin\Debug\net6.0\Labb 2 - Kitchen Appliance.pdb
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.csproj.AssemblyReference.cache
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.AssemblyInfoInputs.cache
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.AssemblyInfo.cs
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.csproj.CoreCompileInputs.cache
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.dll
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\refint\Labb 2 - Kitchen Appliance.dll
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.pdb
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\Labb 2 - Kitchen Appliance.genruntimeconfig.cache
+C:\Users\Joakim\source\repos\Labb 2 - Kitchen Appliance\Labb 2 - Kitchen Appliance\obj\Debug\net6.0\ref\Labb 2 - Kitchen Appliance.dll
