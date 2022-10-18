@@ -12,14 +12,11 @@ namespace Labb_2___Kitchen_Appliance
         public string Type { get; set; }
         public string Brand { get; set; }
         public bool IsFunctioning { get; set; }
-        public void Use()
+        public Köksapparater(string type, string brand, bool isFunctioning)
         {
-
+            Type = type;
+            Brand = brand;
+            IsFunctioning = isFunctioning;
         }
     }
-    public class K : Köksapparater
-    {
-
-    }
-
 }
